@@ -11,9 +11,12 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 - Other: Git, Agile/Scrum
 
 📦 **Projects**
-1. [Project Name 1](Link to Project 1): Brief project description.
-2. [Project Name 2](Link to Project 2): Brief project description.
-3. ...
+1. Gulf Way Group Website
+2. Gulf Way Marketing Website
+3. Gulf Way Delivery Website
+4. Gulf Way Rental Website
+5. Gulf Way Rental Marketing Landing Page
+6. Gulf Way Rental Dashboard
 
 🌱 **Currently Learning**
 - Exploring advanced Power BI data modeling and visualization techniques, mastering React for dynamic web interfaces, and diving deeper into Node.js for backend development.
