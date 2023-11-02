@@ -11,12 +11,11 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 - Other: Git, Agile/Scrum
 
 📦 **Projects**
-1. Gulf Way Group Website
-2. Gulf Way Marketing Website
-3. Gulf Way Delivery Website
-4. Gulf Way Rental Website
-5. Gulf Way Rental Marketing Landing Page
-6. Gulf Way Rental Dashboard
+1. Gulf Way Group Website - https://group2.gulfwayoiltrading.com/
+2. Gulf Way Marketing Website - https://testing.gulfwaymarketing.com/
+3. Gulf Way Delivery Website - https://private.gulfwaydelivery.com/
+4. Petology Website - https://petology.learnwithsaeed.com/
+5. Gulf Way Car Rental Dashboard and Website 
 
 🌱 **Currently Learning**
 - Exploring advanced Power BI data modeling and visualization techniques, mastering React for dynamic web interfaces, and diving deeper into Node.js for backend development.
