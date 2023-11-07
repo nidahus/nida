@@ -14,7 +14,8 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 1. Gulf Way Group Website - https://group2.gulfwayoiltrading.com/
 2. Gulf Way Marketing Website - https://testing.gulfwaymarketing.com/
 3. Gulf Way Delivery Website - https://private.gulfwaydelivery.com/
-4. Petology Website - https://petology.learnwithsaeed.com/
+4. Gulf Way Media - https://ahmed.gulfwaymedia.com/
+5. Petology Website - https://petology.learnwithsaeed.com/
    - The "Petology Veterinary and Grooming" project comprises a WordPress website and a React dashboard. The website, built on WordPress, offers a user-friendly content management system for the veterinary and grooming business, facilitating the creation and management of online content. In parallel, the React dashboard delivers an efficient and dynamic interface for internal operations, enhancing the management of veterinary services and grooming appointments, and providing real-time insights. These components together form an integrated digital solution to optimize customer-facing and internal processes for Petology Veterinary and Grooming.
   
 6. Gulf Way Car Rental Dashboard and Website
