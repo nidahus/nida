@@ -6,7 +6,6 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 - Languages: JavaScript, Python, Java
 - Web Development: HTML, CSS, React, Node.js, ExpressJS, VSCode
 - Database: MySQL, MongoDB
-- DevOps: Docker, CI/CD
 - Business Analysis: Power Bi, MS Excel, Jupyter Notebook
 - Other: Git, Agile/Scrum, BitBucket, Jira
 
