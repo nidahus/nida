@@ -10,7 +10,7 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 - Business Analysis: Power Bi, MS Excel
 - Other: Git, Agile/Scrum
 
-📦 **Projects**
+📦 **Wordpress and MERN Projects**
 1. Gulf Way Group Website - https://group2.gulfwayoiltrading.com/
 2. Gulf Way Marketing Website - https://testing.gulfwaymarketing.com/
 3. Gulf Way Delivery Website - https://private.gulfwaydelivery.com/
