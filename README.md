@@ -4,11 +4,11 @@ I'm Nida Hussain, a passionate software developer with a love for creating innov
 
 🚀 **Skills and Expertise**
 - Languages: JavaScript, Python, Java
-- Web Development: HTML, CSS, React, Node.js
-- Database: SQL, MongoDB
+- Web Development: HTML, CSS, React, Node.js, ExpressJS, VSCode
+- Database: MySQL, MongoDB
 - DevOps: Docker, CI/CD
-- Business Analysis: Power Bi, MS Excel
-- Other: Git, Agile/Scrum
+- Business Analysis: Power Bi, MS Excel, Jupyter Notebook
+- Other: Git, Agile/Scrum, BitBucket, Jira
 
 📦 **Wordpress and MERN Projects**
 1. Gulf Way Group Website - https://group2.gulfwayoiltrading.com/
